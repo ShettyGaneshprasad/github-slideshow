@@ -1,5 +1,15 @@
 ---
-layout: presentation
+layout: presentations
+adf
+adf
+ad
+fa
+df
+adf
+a
+f
+
+
 ---
 
 {% for post in site.posts reversed %}
